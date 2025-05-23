@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartToDoApp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Login"/>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="description">Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="due_date_yyyy_mm_dd">Due Date (YYYY-MM-DD)</string>
+    <string name="save_task">Save Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="logout">Logout</string>
+    <string name="mark_as_done">Mark as Done</string>
+    <string name="done">Mark as Done</string>
+    <string name="login">Login</string>
+</resources>
